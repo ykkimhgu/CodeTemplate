@@ -5,6 +5,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
+This program estimates the 6-DOF pose of an object using a LiDAR
 One to two paragraph statement about your product and what it does.
 
 ![](header.png)
